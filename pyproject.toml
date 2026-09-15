@@ -1,7 +1,7 @@
 [project]
 name = "enterprise-knowledge-copilot"
 version = "0.1.0"
-description = "Add your description here"
+description = "A secure enterprise GenAI platform for retrieving reliable, source-grounded answers from organisational knowledge."
 readme = "README.md"
 authors = [
     { name = "Hammed Fatai", email = "hammedfataioluwatobi@gmail.com" }
